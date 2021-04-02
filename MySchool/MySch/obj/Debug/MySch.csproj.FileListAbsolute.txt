@@ -1,0 +1,7 @@
+C:\Users\Loki\source\repos\MySch\MySch\obj\Debug\MySch.csprojAssemblyReference.cache
+C:\Users\Loki\source\repos\MySch\MySch\obj\Debug\MySch.csproj.CoreCompileInputs.cache
+C:\Users\Loki\source\repos\MySch\MySch\bin\Debug\MySch.exe.config
+C:\Users\Loki\source\repos\MySch\MySch\bin\Debug\MySch.exe
+C:\Users\Loki\source\repos\MySch\MySch\bin\Debug\MySch.pdb
+C:\Users\Loki\source\repos\MySch\MySch\obj\Debug\MySch.exe
+C:\Users\Loki\source\repos\MySch\MySch\obj\Debug\MySch.pdb
